@@ -43,5 +43,5 @@ DS_1445 block2 (for post drug administration)
 11.	insert number of drugs (or blocks) recorded. if none - input 0.
 
 # Screenshots
-![Screenshot](Screenshot_GUI.JPG)
+![Screenshot](Screenshot.JPG)
 
