@@ -25,7 +25,9 @@ Please contact shirquinn (at) mail (dot) tau (dot) ac (dot) il with any question
 
 The text files should contain:
 
-seconds, SomL-Cer voltage(or any left sided electrode), SomR-Cer voltage (or any right sided electrode), EMG voltage.
+column 1 = seconds    
+columns 2 = SomL-Cer voltage(or any left sided electrode)    
+columns 3 = SomR-Cer voltage (or any right sided electrode), EMG voltage.    
 
 The text file should be called: 
 
