@@ -10,7 +10,7 @@ Please contact shirquinn (at) mail (dot) tau (dot) ac (dot) il with any question
 
 # Installation instructions and operation
 
-1.	Make sure to install all required python packages: 
+1.	Make sure to install all required python packages:     
   conda install jupyter       
   pip install -U scikit-learn    
   conda install -c anaconda openpyxl    
