@@ -5,6 +5,7 @@ This is a graphical user interface for extracting quiet wakefulness power spectr
 If you use it in your research, please cite our publication: 
 
 Quinn, S., Brusel, M., Ovadia, M., and Rubinstein, M. (2022). Acute effect of antiseizure drugs on background oscillations in Scn1aA1783V Dravet syndrome mouse model.Front Pharmacol. 2023 Mar 20;14:1118216. doi: 10.3389/fphar.2023.1118216.
+
 Please contact shirquinn (at) mail (dot) tau (dot) ac (dot) il with any questions or comments.
 
 # Installation instructions and operation
